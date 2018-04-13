@@ -22,11 +22,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Two_Sum_01.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Two_Sum_01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Two_Sum_01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Maximum_Subarray_53.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Maximum_Subarray_53.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -90,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/Move_Zeroes_283.java" />
         <option value="$PROJECT_DIR$/src/Two_Sum.java" />
         <option value="$PROJECT_DIR$/src/Two_Sum_01.java" />
+        <option value="$PROJECT_DIR$/src/Maximum_Subarray_53.java" />
       </list>
     </option>
   </component>
@@ -287,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523598893793</updated>
       <workItem from="1523598897568" duration="2085000" />
-      <workItem from="1523602379752" duration="7498000" />
+      <workItem from="1523602379752" duration="8125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9583000" />
+    <option name="totallyTimeSpent" value="10210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="988" y="23" width="932" height="1057" extended-state="0" />
@@ -429,6 +440,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maximum_Subarray_53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
