@@ -9,7 +9,4 @@ public class Maximum_Subarray_53 {
         return max;
     }
 
-    public int maxSubArray2(int[] A){
-        
-    }
 }
