@@ -1,7 +1,18 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Arrays;
 
 public class Majority_Element_169 {
+    public int majorityElement2(int[] nums){
+        //1. Sorting
+        Arrays.sort(nums);
+
+        // Return the half one
+        return nums[nums.length/2];
+
+    }
+
+
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> counts = countNums(nums);
         Map.Entry<Integer,Integer> majorityEntry = null;

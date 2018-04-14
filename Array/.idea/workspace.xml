@@ -46,10 +46,12 @@
         <entry file="file://$PROJECT_DIR$/src/Majority_Element_169.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#613#631#0" expanded="true" />
+                <element signature="method#majorityElement#0;class#Majority_Element_169#0" expanded="false" />
+                <element signature="method#countNums#0;class#Majority_Element_169#0" expanded="false" />
+                <element signature="e#808#826#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,10 +127,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="988" />
+    <option name="x" value="508" />
     <option name="y" value="23" />
     <option name="width" value="932" />
-    <option name="height" value="1057" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -312,15 +314,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523598893793</updated>
       <workItem from="1523598897568" duration="2085000" />
-      <workItem from="1523602379752" duration="9272000" />
+      <workItem from="1523602379752" duration="9712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11357000" />
+    <option name="totallyTimeSpent" value="11797000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="988" y="23" width="932" height="1057" extended-state="0" />
+    <frame x="508" y="23" width="932" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -469,10 +471,12 @@
     <entry file="file://$PROJECT_DIR$/src/Majority_Element_169.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#613#631#0" expanded="true" />
+            <element signature="method#majorityElement#0;class#Majority_Element_169#0" expanded="false" />
+            <element signature="method#countNums#0;class#Majority_Element_169#0" expanded="false" />
+            <element signature="e#808#826#0" expanded="true" />
           </folding>
         </state>
       </provider>
