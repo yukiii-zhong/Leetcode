@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class test {
     public static void main(String[] args){
         int[][] Matrix0 = {{1,2},{3,4}};
@@ -8,6 +10,7 @@ public class test {
         printMatrix(R1.matrixReshape(Matrix0,1,4));
 
 
+
     }
     public static void printMatrix(int[][] matrix){
         for (int i=0; i< matrix.length;i++){
@@ -15,6 +18,12 @@ public class test {
                 System.out.print(matrix[i][j] + " ");
             }
             System.out.println();
+        }
+    }
+
+    public static void printArray(int[] nums){
+        for(int i: nums){
+            System.out.println(i);
         }
     }
 
