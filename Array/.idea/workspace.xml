@@ -12,16 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Best_Time_to_Buy_and_Sell_Stock_121.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Best_Time_to_Buy_and_Sell_Stock_121.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Best_Time_to_Buy_and_Sell_Stock_II.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Best_Time_to_Buy_and_Sell_Stock_II.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +98,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Two_Sum_II_167.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Two_Sum_II_167.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Two_Sum_II_167.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
               <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Find_All_Numbers_Disappeared_in_an_Array.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Find_All_Numbers_Disappeared_in_an_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="11" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/Pascals_Triangle_118.java" />
         <option value="$PROJECT_DIR$/src/Missing_Number_268.java" />
         <option value="$PROJECT_DIR$/src/Two_Sum_II_167.java" />
+        <option value="$PROJECT_DIR$/src/Find_All_Numbers_Disappeared_in_an_Array.java" />
       </list>
     </option>
   </component>
@@ -354,12 +357,12 @@
       <updated>1523598893793</updated>
       <workItem from="1523598897568" duration="2085000" />
       <workItem from="1523602379752" duration="28065000" />
-      <workItem from="1523969518679" duration="4212000" />
+      <workItem from="1523969518679" duration="5799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34362000" />
+    <option name="totallyTimeSpent" value="35949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="508" y="23" width="932" height="877" extended-state="0" />
@@ -691,6 +694,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Find_All_Numbers_Disappeared_in_an_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
