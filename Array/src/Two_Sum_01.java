@@ -22,6 +22,7 @@ public class Two_Sum_01 {
             if (seen.containsKey(target - nums[i])){
                 ans[1] = i;
                 ans[0] = seen.get(target-nums[i]);
+                break;
             }
             else{
                 seen.put(nums[i],i);
