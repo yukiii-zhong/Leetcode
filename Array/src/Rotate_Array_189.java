@@ -15,8 +15,4 @@ public class Rotate_Array_189 {
         }
 
     }
-
-    public void rotate2(int[] nums, int k){
-        
-    }
 }
