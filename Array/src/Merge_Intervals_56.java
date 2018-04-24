@@ -2,29 +2,36 @@ import java.util.*;
 
 public class Merge_Intervals_56 {
 
-    private class IntervalComparator implements Comparator<Interval>  {
+    private class IntervalComparator implements Comparator<Interval> {
         public int compare(Interval a, Interval b){
-            return a.start<b.start ? -1: a.start== b.start? 0:1;
+            return a.start<b.start ? -1: a.start==b.start ? 0:1;
         }
     }
 
-
-
     public List<Interval> merge(List<Interval> intervals){
-        Collections.sort(intervals, new IntervalComparator());
+        Collections.sort(intervals,new IntervalComparator());
 
-        LinkedList<Interval> merged = new LinkedList<>();
-
-        for (Interval interval:intervals){
-            if (merged.isEmpty() || merged.getLast().end< interval.start){
-                merged.add(interval);
+        // Another way of sorting.
+        Collections.sort(intervals, new Comparator<Interval>(){
+            public int compare(Interval a,Interval b){
+                return a.start - b.start;
             }
-            else {
-                merged.getLast().end = Math.max(merged.getLast().end, interval.end);
+        });
+
+
+
+
+        LinkedList<Interval> ans = new LinkedList<>();
+
+        for (Interval interval: intervals){
+            if (ans.isEmpty() || ans.getLast().end < interval.start){
+                ans.add(interval);
+            }
+            else{
+                ans.getLast().end = Math.max(ans.getLast().end,interval.end);
             }
         }
 
-        return merged;
-
+        return ans;
     }
 }
