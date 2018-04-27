@@ -24,3 +24,18 @@ class Solution:
             ans2.append("".join(ans[i]))
 
         return ans2
+
+    def letterCasePermutation2(self, S):
+
+        ans = [""]
+
+        for char in S:
+            if char.isalpha():
+                for i in range(len(ans)):
+                    ans.append(ans[i]+char.upper())
+                    ans[i] += char.lower()
+            else:
+                for i in range(len(ans)):
+                    ans[i] +=char
+        return ans
+
