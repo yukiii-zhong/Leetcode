@@ -40,11 +40,8 @@ class Solution:
         if n == 0:
             return count
 
-        if n > 10:
-            return self.countNumbersWithUniqueDigits(10)
-
         k = 9
-        for i in range(n):
+        for i in range(n if n <= 10 else 10):
             count *=k
             if i !=0:
                 k -=1
