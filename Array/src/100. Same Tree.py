@@ -14,9 +14,8 @@ class Solution:
         """
         if not p and not q:
             return True
-        elif not p and q:
-            return False
-        elif not q and p:
+
+        if (not p) != (not q):
             return False
 
 
