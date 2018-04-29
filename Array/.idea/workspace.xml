@@ -42,11 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="357. Count Numbers with Unique Digits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="357. Count Numbers with Unique Digits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/357. Count Numbers with Unique Digits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="708">
               <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="136. Single Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/136. Single Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/46. Permutations.py" />
         <option value="$PROJECT_DIR$/src/216. Combination Sum III.py" />
         <option value="$PROJECT_DIR$/src/357. Count Numbers with Unique Digits.py" />
+        <option value="$PROJECT_DIR$/src/136. Single Number.py" />
       </list>
     </option>
   </component>
@@ -418,13 +429,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Maximum_Product_Subarray_152.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Two_Sum_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -773,6 +777,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="708">
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/136. Single Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
