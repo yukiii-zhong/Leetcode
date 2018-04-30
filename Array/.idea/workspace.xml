@@ -22,12 +22,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="108. Convert Sorted Array to Binary Search Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/108. Convert Sorted Array to Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="695. Max Area of Island.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/695. Max Area of Island.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+              <folding>
+                <element signature="e#98#364#0" expanded="false" />
+                <element signature="e#406#909#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/TreeNode.py" />
         <option value="$PROJECT_DIR$/src/108. Convert Sorted Array to Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/src/101. Symmetric Tree.py" />
+        <option value="$PROJECT_DIR$/src/695. Max Area of Island.py" />
       </list>
     </option>
   </component>
@@ -425,13 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Plus_One_66.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Merger_Sorted_Array_88.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -788,6 +795,17 @@
         <state relative-caret-position="437">
           <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/695. Max Area of Island.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="e#98#364#0" expanded="false" />
+            <element signature="e#406#909#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
