@@ -14,13 +14,10 @@ class Solution:
         if not root:
             return root
 
-        temp = root.left
-        root.left = root.right
-        root.right = temp
+        left = self.invertTree(root.left)
+        right = self.invertTree(root.right)
 
-        if root.left:
-            root.left = self.invertTree(root.left)
-        if root.right:
-            root.right = self.invertTree(root.right)
+        root.left = right
+        root.right = left
 
         return root
