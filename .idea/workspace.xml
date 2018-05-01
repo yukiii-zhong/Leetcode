@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/461. Hamming Distance.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/476. Number Complement.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/371. Sum of Two Integers.py" afterPath="$PROJECT_DIR$/problems/371. Sum of Two Integers.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="461. Hamming Distance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="461. Hamming Distance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/461. Hamming Distance.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="476. Number Complement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/476. Number Complement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/problems/258. Add Digits.py" />
         <option value="$PROJECT_DIR$/problems/371. Sum of Two Integers.py" />
         <option value="$PROJECT_DIR$/problems/461. Hamming Distance.py" />
+        <option value="$PROJECT_DIR$/problems/476. Number Complement.py" />
       </list>
     </option>
   </component>
@@ -181,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.371. Sum of Two Integers">
+  <component name="RunManager" selected="Python.476. Number Complement">
     <configuration name="143. Reorder List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,38 +264,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="86. Partition List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="476. Number Complement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked List/86. Partition List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/476. Number Complement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.86. Partition List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.143. Reorder List" />
-      <item index="2" class="java.lang.String" itemvalue="Python.148. Sort List" />
-      <item index="3" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
-      <item index="4" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.143. Reorder List" />
+      <item index="1" class="java.lang.String" itemvalue="Python.148. Sort List" />
+      <item index="2" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
+      <item index="3" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.476. Number Complement" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
-        <item index="2" class="java.lang.String" itemvalue="Python.148. Sort List" />
-        <item index="3" class="java.lang.String" itemvalue="Python.143. Reorder List" />
-        <item index="4" class="java.lang.String" itemvalue="Python.86. Partition List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.476. Number Complement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
+        <item index="3" class="java.lang.String" itemvalue="Python.148. Sort List" />
+        <item index="4" class="java.lang.String" itemvalue="Python.143. Reorder List" />
       </list>
     </recent_temporary>
   </component>
@@ -361,16 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/143. Reorder List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding>
-            <element signature="e#20#436#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/138. Copy List with Random Pointer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -752,6 +752,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/476. Number Complement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
