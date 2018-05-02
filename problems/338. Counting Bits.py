@@ -10,7 +10,7 @@ class Solution(object):
         return ans
 
 
-    # 
+    # P(x) = P(x & (x-1)) + 1
     def countBits2(self, num):
 
         ans = [0]
