@@ -14,16 +14,17 @@ class Solution:
         return i ^ num
 
     def findComplement(self, num):
-
-        temp = 2 ** (len(bin(num))-2)-1
+        n = len(bin(num)) - 2
+        temp = 2 ** n - 1
+        return num ^ temp
 
     def findComplement3(self, num):
 
         mask = ~0
-        binlen = len(bin(num))-2
-        for i in range(binlen):
+        for i in range(len(bin(num))-2):
             mask <<= 1
 
         return ~num ^ mask
 
 ans = Solution().findComplement3(5)
+print(ans)
