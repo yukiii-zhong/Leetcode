@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/231. Power of Two.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/191. Number of 1 Bits.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/476. Number Complement.py" afterPath="$PROJECT_DIR$/problems/476. Number Complement.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="231. Power of Two.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="231. Power of Two.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/231. Power of Two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="0">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="191. Number of 1 Bits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/191. Number of 1 Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -135,6 +144,7 @@
         <option value="$PROJECT_DIR$/problems/461. Hamming Distance.py" />
         <option value="$PROJECT_DIR$/problems/476. Number Complement.py" />
         <option value="$PROJECT_DIR$/problems/231. Power of Two.py" />
+        <option value="$PROJECT_DIR$/problems/191. Number of 1 Bits.py" />
       </list>
     </option>
   </component>
@@ -203,20 +213,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.231. Power of Two">
-    <configuration name="148. Sort List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.191. Number of 1 Bits">
+    <configuration name="191. Number of 1 Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked List/148. Sort List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/191. Number of 1 Bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,19 +305,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.148. Sort List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
-      <item index="2" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.476. Number Complement" />
-      <item index="4" class="java.lang.String" itemvalue="Python.231. Power of Two" />
+      <item index="0" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
+      <item index="1" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.476. Number Complement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.231. Power of Two" />
+      <item index="4" class="java.lang.String" itemvalue="Python.191. Number of 1 Bits" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.231. Power of Two" />
-        <item index="1" class="java.lang.String" itemvalue="Python.476. Number Complement" />
-        <item index="2" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
-        <item index="4" class="java.lang.String" itemvalue="Python.148. Sort List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.191. Number of 1 Bits" />
+        <item index="1" class="java.lang.String" itemvalue="Python.231. Power of Two" />
+        <item index="2" class="java.lang.String" itemvalue="Python.476. Number Complement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.371. Sum of Two Integers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.25. Reverse Nodes in k-Group" />
       </list>
     </recent_temporary>
   </component>
@@ -383,14 +393,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/61. Rotate List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/148. Sort List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -770,8 +772,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/231. Power of Two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="0">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/191. Number of 1 Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>
