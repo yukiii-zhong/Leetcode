@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/171. Excel Sheet Column Number.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/242. Valid Anagram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/383. Ransom Note.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="242. Valid Anagram.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="242. Valid Anagram.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/242. Valid Anagram.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
               <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="383. Ransom Note.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/383. Ransom Note.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -123,6 +132,7 @@
         <option value="$PROJECT_DIR$/problems/13. Roman to Integer.py" />
         <option value="$PROJECT_DIR$/problems/171. Excel Sheet Column Number.py" />
         <option value="$PROJECT_DIR$/problems/242. Valid Anagram.py" />
+        <option value="$PROJECT_DIR$/problems/383. Ransom Note.py" />
       </list>
     </option>
   </component>
@@ -191,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.242. Valid Anagram">
+  <component name="RunManager" selected="Python.383. Ransom Note">
     <configuration name="13. Roman to Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,24 +256,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="260. Single Number III" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/260. Single Number III.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="349. Intersection of Two Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,20 +274,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="383. Ransom Note" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/383. Ransom Note.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.260. Single Number III" />
-      <item index="1" class="java.lang.String" itemvalue="Python.349. Intersection of Two Arrays" />
-      <item index="2" class="java.lang.String" itemvalue="Python.13. Roman to Integer" />
-      <item index="3" class="java.lang.String" itemvalue="Python.171. Excel Sheet Column Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.349. Intersection of Two Arrays" />
+      <item index="1" class="java.lang.String" itemvalue="Python.13. Roman to Integer" />
+      <item index="2" class="java.lang.String" itemvalue="Python.171. Excel Sheet Column Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.171. Excel Sheet Column Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.13. Roman to Integer" />
-        <item index="3" class="java.lang.String" itemvalue="Python.349. Intersection of Two Arrays" />
-        <item index="4" class="java.lang.String" itemvalue="Python.260. Single Number III" />
+        <item index="0" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
+        <item index="1" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.171. Excel Sheet Column Number" />
+        <item index="3" class="java.lang.String" itemvalue="Python.13. Roman to Integer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.349. Intersection of Two Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +334,7 @@
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32385787" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32385787" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -371,14 +381,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/148. Sort List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="25" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="62" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/25. Reverse Nodes in k-Group.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -756,6 +758,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/383. Ransom Note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding />
         </state>
       </provider>
