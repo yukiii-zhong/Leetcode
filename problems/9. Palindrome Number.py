@@ -57,6 +57,3 @@ class Solution(object):
             reverted = reverted *10 + rem
 
         return x == reverted or x == reverted // 10
-
-
-print(Solution().isPalindrome3(10))
