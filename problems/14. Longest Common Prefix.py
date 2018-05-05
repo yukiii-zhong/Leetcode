@@ -9,9 +9,12 @@ class Solution(object):
         if len(strs) == 0:
             return res
 
-        for i in range(len(strs[0])):
-            if all(i < len(string) for string in strs) and all(strs[0][i] == string[i] for string in strs):
-                res += strs[0][i]
+        sentinel = min(strs, key=len)
+
+        for i in range(len(sentinel)):
+            if all(sentinel[i] == string[i] for string in strs):
+                res += sentinel[i]
             else:
                 break
         return res
+

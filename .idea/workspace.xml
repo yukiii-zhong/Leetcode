@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" afterPath="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="14. Longest Common Prefix.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/14. Longest Common Prefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,7 +68,11 @@
     <findStrings>
       <find>pre</find>
       <find>k</find>
+      <find>strs[0]</find>
     </findStrings>
+    <replaceStrings>
+      <replace>sentinel</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,7 +171,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.344. Reverse String">
+  <component name="RunManager" selected="Python.14. Longest Common Prefix">
+    <configuration name="14. Longest Common Prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="202. Happy Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,24 +203,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/202. Happy Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="242. Valid Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/242. Valid Anagram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,19 +263,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
-      <item index="1" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
-      <item index="2" class="java.lang.String" itemvalue="Python.387. First Unique Character in a String" />
-      <item index="3" class="java.lang.String" itemvalue="Python.202. Happy Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.344. Reverse String" />
+      <item index="0" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
+      <item index="1" class="java.lang.String" itemvalue="Python.387. First Unique Character in a String" />
+      <item index="2" class="java.lang.String" itemvalue="Python.202. Happy Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.344. Reverse String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.344. Reverse String" />
-        <item index="1" class="java.lang.String" itemvalue="Python.202. Happy Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.387. First Unique Character in a String" />
-        <item index="3" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
-        <item index="4" class="java.lang.String" itemvalue="Python.242. Valid Anagram" />
+        <item index="0" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.344. Reverse String" />
+        <item index="2" class="java.lang.String" itemvalue="Python.202. Happy Number" />
+        <item index="3" class="java.lang.String" itemvalue="Python.387. First Unique Character in a String" />
+        <item index="4" class="java.lang.String" itemvalue="Python.383. Ransom Note" />
       </list>
     </recent_temporary>
   </component>
@@ -705,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/14. Longest Common Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
