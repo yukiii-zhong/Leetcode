@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/12. Integer to Roman.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/20. Valid Parentheses.py" afterPath="$PROJECT_DIR$/problems/20. Valid Parentheses.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,21 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="20. Valid Parentheses.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/20. Valid Parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12. Integer to Roman.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/12. Integer to Roman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -102,9 +91,9 @@
         <option value="$PROJECT_DIR$/problems/344. Reverse String.py" />
         <option value="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
         <option value="$PROJECT_DIR$/problems/7. Reverse Integer.py" />
-        <option value="$PROJECT_DIR$/problems/20. Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/problems/9. Palindrome Number.py" />
         <option value="$PROJECT_DIR$/problems/12. Integer to Roman.py" />
+        <option value="$PROJECT_DIR$/problems/20. Valid Parentheses.py" />
       </list>
     </option>
   </component>
@@ -154,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12. Integer to Roman">
+  <component name="RunManager" selected="Python.20. Valid Parentheses">
     <configuration name="12. Integer to Roman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +180,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="202. Happy Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20. Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/202. Happy Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/20. Valid Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +235,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.202. Happy Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.344. Reverse String" />
-      <item index="2" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.9. Palindrome Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12. Integer to Roman" />
+      <item index="0" class="java.lang.String" itemvalue="Python.344. Reverse String" />
+      <item index="1" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.9. Palindrome Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12. Integer to Roman" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12. Integer to Roman" />
-        <item index="1" class="java.lang.String" itemvalue="Python.9. Palindrome Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.344. Reverse String" />
-        <item index="4" class="java.lang.String" itemvalue="Python.202. Happy Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20. Valid Parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12. Integer to Roman" />
+        <item index="2" class="java.lang.String" itemvalue="Python.9. Palindrome Number" />
+        <item index="3" class="java.lang.String" itemvalue="Python.14. Longest Common Prefix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.344. Reverse String" />
       </list>
     </recent_temporary>
   </component>
@@ -685,18 +674,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/20. Valid Parentheses.py">
+    <entry file="file://$PROJECT_DIR$/problems/12. Integer to Roman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/12. Integer to Roman.py">
+    <entry file="file://$PROJECT_DIR$/problems/20. Valid Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding />
         </state>
       </provider>
