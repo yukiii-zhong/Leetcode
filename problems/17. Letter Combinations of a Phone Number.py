@@ -1,5 +1,5 @@
 class Solution:
-    def letterCombinations(self, digits):
+    def letterCombinations3(self, digits):
         """
         :type digits: str
         :rtype: List[str]
@@ -9,6 +9,18 @@ class Solution:
 
         res = []
 
+    def letterCombinations(self, digits):
+        mapping = ['0','1','abc','def','ghi','jkl','mno','pqrs','tuv','wxyz']
+        res = []
+
+        if len(digits) == 0:
+            return res
+        elif len(digits) == 1:
+            return list(mapping[int(digits)])
+
+        pre = self.letterCombinations(digits[:-1])
+        additional = mapping[int(digits[-1])]
+        return [s+c for s in pre for c in additional]
 
 
-print(Solution().letterCombinations('23'))
+print(Solution().letterCombinations('234'))

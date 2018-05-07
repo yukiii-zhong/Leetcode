@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/198. House Robber.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" afterPath="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,17 +13,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="17. Letter Combinations of a Phone Number.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="17. Letter Combinations of a Phone Number.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="280">
+              <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+              <folding>
+                <element signature="e#67#342#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="198. House Robber.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="198. House Robber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/198. House Robber.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="472">
@@ -111,9 +111,9 @@
         <option value="$PROJECT_DIR$/problems/39. Combination Sum.py" />
         <option value="$PROJECT_DIR$/problems/155. Min Stack.py" />
         <option value="$PROJECT_DIR$/problems/70. Climbing Stairs.py" />
-        <option value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
         <option value="$PROJECT_DIR$/problems/论文第5稿+致谢 0504.py" />
         <option value="$PROJECT_DIR$/problems/198. House Robber.py" />
+        <option value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
       </list>
     </option>
   </component>
@@ -163,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.198. House Robber">
+  <component name="RunManager" selected="Python.17. Letter Combinations of a Phone Number">
     <configuration name="17. Letter Combinations of a Phone Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,8 +263,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.198. House Robber" />
-        <item index="1" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="1" class="java.lang.String" itemvalue="Python.198. House Robber" />
         <item index="2" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
         <item index="3" class="java.lang.String" itemvalue="Python.39. Combination Sum" />
         <item index="4" class="java.lang.String" itemvalue="Python.38. Count and Say" />
@@ -698,19 +698,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/198. House Robber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="e#67#342#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
