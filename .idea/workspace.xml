@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/28. Implement strStr().py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/problems/67. Add Binary.py" afterPath="$PROJECT_DIR$/problems/67. Add Binary.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="67. Add Binary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="67. Add Binary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/67. Add Binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="66">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
                 <element signature="e#55#178#0" expanded="false" />
-                <element signature="e#219#618#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="28. Implement strStr().py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/28. Implement strStr().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/445. Add Two Numbers II.py" />
         <option value="$PROJECT_DIR$/Linked List/24. Swap Nodes in Pairs.py" />
         <option value="$PROJECT_DIR$/Linked List/19. Remove Nth Node From End of List.py" />
         <option value="$PROJECT_DIR$/Linked List/379. Design Phone Directory.py" />
@@ -105,6 +115,7 @@
         <option value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
         <option value="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/problems/67. Add Binary.py" />
+        <option value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
       </list>
     </option>
   </component>
@@ -154,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.67. Add Binary">
+  <component name="RunManager" selected="Python.28. Implement strStr()">
     <configuration name="17. Letter Combinations of a Phone Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,6 +220,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="28. Implement strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="67. Add Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,38 +256,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="70. Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/70. Climbing Stairs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
-      <item index="1" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.198. House Robber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
-      <item index="4" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+      <item index="0" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.198. House Robber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+      <item index="3" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+      <item index="4" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.67. Add Binary" />
-        <item index="1" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
-        <item index="2" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.198. House Robber" />
-        <item index="4" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
+        <item index="0" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+        <item index="1" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+        <item index="2" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.198. House Robber" />
       </list>
     </recent_temporary>
   </component>
@@ -334,13 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/445. Add Two Numbers II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/24. Swap Nodes in Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -710,12 +714,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/67. Add Binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="66">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding>
             <element signature="e#55#178#0" expanded="false" />
-            <element signature="e#219#618#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/28. Implement strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
