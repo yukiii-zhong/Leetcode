@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/28. Implement strStr().py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/326. Power of Three.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/67. Add Binary.py" afterPath="$PROJECT_DIR$/problems/67. Add Binary.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="28. Implement strStr().py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="28. Implement strStr().py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/28. Implement strStr().py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="326. Power of Three.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/326. Power of Three.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -65,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/24. Swap Nodes in Pairs.py" />
         <option value="$PROJECT_DIR$/Linked List/19. Remove Nth Node From End of List.py" />
         <option value="$PROJECT_DIR$/Linked List/379. Design Phone Directory.py" />
         <option value="$PROJECT_DIR$/Linked List/147. Insertion Sort List.py" />
@@ -116,6 +124,7 @@
         <option value="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/problems/67. Add Binary.py" />
         <option value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
+        <option value="$PROJECT_DIR$/problems/326. Power of Three.py" />
       </list>
     </option>
   </component>
@@ -165,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.28. Implement strStr()">
+  <component name="RunManager" selected="Python.326. Power of Three">
     <configuration name="17. Letter Combinations of a Phone Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,24 +188,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="198. House Robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/198. House Robber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,6 +229,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="326. Power of Three" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/326. Power of Three.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="67. Add Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,18 +267,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.198. House Robber" />
-      <item index="2" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
-      <item index="3" class="java.lang.String" itemvalue="Python.67. Add Binary" />
-      <item index="4" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+      <item index="1" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+      <item index="2" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+      <item index="4" class="java.lang.String" itemvalue="Python.326. Power of Three" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
-        <item index="1" class="java.lang.String" itemvalue="Python.67. Add Binary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
-        <item index="3" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.198. House Robber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.326. Power of Three" />
+        <item index="1" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+        <item index="2" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+        <item index="4" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
       </list>
     </recent_temporary>
   </component>
@@ -345,13 +354,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/24. Swap Nodes in Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/19. Remove Nth Node From End of List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -726,6 +728,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/326. Power of Three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
