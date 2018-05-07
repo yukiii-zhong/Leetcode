@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" afterPath="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,14 +15,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="17. Letter Combinations of a Phone Number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="17. Letter Combinations of a Phone Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="320">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#67#342#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="238. Product of Array Except Self.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/238. Product of Array Except Self.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="172. Factorial Trailing Zeroes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/369. Plus One Linked List.py" />
-        <option value="$PROJECT_DIR$/Linked List/725. Split Linked List in Parts.py" />
         <option value="$PROJECT_DIR$/Linked List/328. Odd Even Linked List.py" />
         <option value="$PROJECT_DIR$/Linked List/445. Add Two Numbers II.py" />
         <option value="$PROJECT_DIR$/Linked List/24. Swap Nodes in Pairs.py" />
@@ -114,6 +134,8 @@
         <option value="$PROJECT_DIR$/problems/论文第5稿+致谢 0504.py" />
         <option value="$PROJECT_DIR$/problems/198. House Robber.py" />
         <option value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
+        <option value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
+        <option value="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
       </list>
     </option>
   </component>
@@ -163,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17. Letter Combinations of a Phone Number">
+  <component name="RunManager" selected="Python.238. Product of Array Except Self">
     <configuration name="17. Letter Combinations of a Phone Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +222,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="38. Count and Say" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="238. Product of Array Except Self" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/38. Count and Say.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,19 +277,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.38. Count and Say" />
-      <item index="1" class="java.lang.String" itemvalue="Python.39. Combination Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.198. House Robber" />
+      <item index="0" class="java.lang.String" itemvalue="Python.39. Combination Sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.198. House Robber" />
+      <item index="4" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.198. House Robber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.39. Combination Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.38. Count and Say" />
+        <item index="0" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+        <item index="1" class="java.lang.String" itemvalue="Python.17. Letter Combinations of a Phone Number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.198. House Robber" />
+        <item index="3" class="java.lang.String" itemvalue="Python.70. Climbing Stairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.39. Combination Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -343,20 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/725. Split Linked List in Parts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Linked List/379. Design Phone Directory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/147/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Linked List/445. Add Two Numbers II.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -708,11 +716,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        <state relative-caret-position="320">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#67#342#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/238. Product of Array Except Self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
