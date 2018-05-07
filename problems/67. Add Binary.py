@@ -25,4 +25,27 @@ class Solution:
         elif temp >= 2:
             return self.addBinary(self.addBinary(a[:-1],b[:-1]),'1') + str(temp-2)
 
-print(Solution().addBinary2('1010','1011'))
+    def addBinary3(self, a, b):
+        i = len(a)-1
+        j = len(b)-1
+        ans = ""
+        carry = 0
+
+        while j>=0 or i>=0 or carry>0:
+            temp = carry
+            if i>= 0:
+                temp += int(a[i])
+                i-=1
+            if j>=0:
+                temp += int(b[j])
+                j-=1
+
+            carry = temp //2
+            ans = str(temp % 2) + ans
+
+        return ans
+
+
+
+
+print(Solution().addBinary3('1010','1011'))
