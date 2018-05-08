@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/69. Sqrt(x).py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="69. Sqrt(x).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="69. Sqrt(x).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/69. Sqrt(x).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="125. Valid Palindrome.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/125. Valid Palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/142. Linked List Cycle II.py" />
         <option value="$PROJECT_DIR$/Linked List/82. Remove Duplicates from Sorted List II.py" />
         <option value="$PROJECT_DIR$/Linked List/2. Add Two Numbers.py" />
         <option value="$PROJECT_DIR$/Linked List/143. Reorder List.py" />
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/problems/110. Balanced Binary Tree.py" />
         <option value="$PROJECT_DIR$/problems/235. Lowest Common Ancestor of a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/problems/69. Sqrt(x).py" />
+        <option value="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
       </list>
     </option>
   </component>
@@ -163,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.69. Sqrt(x)">
-    <configuration name="238. Product of Array Except Self" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.125. Valid Palindrome">
+    <configuration name="125. Valid Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,19 +265,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
-      <item index="1" class="java.lang.String" itemvalue="Python.67. Add Binary" />
-      <item index="2" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
-      <item index="3" class="java.lang.String" itemvalue="Python.326. Power of Three" />
-      <item index="4" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.67. Add Binary" />
+      <item index="1" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+      <item index="2" class="java.lang.String" itemvalue="Python.326. Power of Three" />
+      <item index="3" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.326. Power of Three" />
-        <item index="2" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
-        <item index="3" class="java.lang.String" itemvalue="Python.67. Add Binary" />
-        <item index="4" class="java.lang.String" itemvalue="Python.238. Product of Array Except Self" />
+        <item index="0" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.326. Power of Three" />
+        <item index="3" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+        <item index="4" class="java.lang.String" itemvalue="Python.67. Add Binary" />
       </list>
     </recent_temporary>
   </component>
@@ -343,13 +353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/82. Remove Duplicates from Sorted List II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/2. Add Two Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -715,6 +718,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/125. Valid Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
