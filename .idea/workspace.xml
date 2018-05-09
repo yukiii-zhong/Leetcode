@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/35. Search Insert Position.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,61 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="235. Lowest Common Ancestor of a Binary Search Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/235. Lowest Common Ancestor of a Binary Search Tree.py">
+      <file leaf-file-name="35. Search Insert Position.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/35. Search Insert Position.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="36" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="69. Sqrt(x).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/69. Sqrt(x).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="125. Valid Palindrome.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/125. Valid Palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="263. Ugly Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/263. Ugly Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="345. Reverse Vowels of a String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/345. Reverse Vowels of a String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="303. Range Sum Query - Immutable.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="-178">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/138. Copy List with Random Pointer.py" />
         <option value="$PROJECT_DIR$/Linked List/61. Rotate List.py" />
         <option value="$PROJECT_DIR$/Linked List/148. Sort List.py" />
         <option value="$PROJECT_DIR$/Linked List/ListNode.py" />
@@ -154,6 +103,7 @@
         <option value="$PROJECT_DIR$/problems/263. Ugly Number.py" />
         <option value="$PROJECT_DIR$/problems/345. Reverse Vowels of a String.py" />
         <option value="$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py" />
+        <option value="$PROJECT_DIR$/problems/35. Search Insert Position.py" />
       </list>
     </option>
   </component>
@@ -203,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.345. Reverse Vowels of a String">
+  <component name="RunManager" selected="Python.35. Search Insert Position">
     <configuration name="125. Valid Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,24 +167,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="28. Implement strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,6 +208,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="35. Search Insert Position" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/35. Search Insert Position.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="69. Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,19 +245,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
-      <item index="1" class="java.lang.String" itemvalue="Python.326. Power of Three" />
-      <item index="2" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
-      <item index="4" class="java.lang.String" itemvalue="Python.345. Reverse Vowels of a String" />
+      <item index="0" class="java.lang.String" itemvalue="Python.326. Power of Three" />
+      <item index="1" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
+      <item index="3" class="java.lang.String" itemvalue="Python.345. Reverse Vowels of a String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.35. Search Insert Position" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.345. Reverse Vowels of a String" />
-        <item index="1" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
-        <item index="2" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.326. Power of Three" />
-        <item index="4" class="java.lang.String" itemvalue="Python.28. Implement strStr()" />
+        <item index="0" class="java.lang.String" itemvalue="Python.35. Search Insert Position" />
+        <item index="1" class="java.lang.String" itemvalue="Python.345. Reverse Vowels of a String" />
+        <item index="2" class="java.lang.String" itemvalue="Python.125. Valid Palindrome" />
+        <item index="3" class="java.lang.String" itemvalue="Python.69. Sqrt(x)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.326. Power of Three" />
       </list>
     </recent_temporary>
   </component>
@@ -383,13 +333,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/61. Rotate List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Linked List/148. Sort List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -759,6 +702,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/35. Search Insert Position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
