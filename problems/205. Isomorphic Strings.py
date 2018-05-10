@@ -26,3 +26,4 @@ class Solution:
         return True
 
 print(Solution().isIsomorphic("a","a"))
+
