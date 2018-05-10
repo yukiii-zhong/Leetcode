@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/problems/204. Count Primes.py" afterPath="$PROJECT_DIR$/problems/204. Count Primes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="204. Count Primes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="204. Count Primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/204. Count Primes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="94. Binary Tree Inorder Traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -82,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/25. Reverse Nodes in k-Group.py" />
         <option value="$PROJECT_DIR$/Linked List/23. Merge k Sorted Lists.py" />
         <option value="$PROJECT_DIR$/problems/__init__.py" />
         <option value="$PROJECT_DIR$/problems/TreeNode.py" />
@@ -133,6 +143,7 @@
         <option value="$PROJECT_DIR$/problems/119. Pascal's Triangle II.py" />
         <option value="$PROJECT_DIR$/problems/205. Isomorphic Strings.py" />
         <option value="$PROJECT_DIR$/problems/204. Count Primes.py" />
+        <option value="$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py" />
       </list>
     </option>
   </component>
@@ -362,13 +373,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linked List/23. Merge k Sorted Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -742,6 +746,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
