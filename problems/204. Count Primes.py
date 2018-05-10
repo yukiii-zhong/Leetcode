@@ -4,7 +4,7 @@ class Solution:
         :type n: int
         :rtype: int
         """
-        if n <= 1: return 0
+        if n <= 2: return 0
 
         notPrimes = [False] * n
         notPrimes[0] = True
@@ -12,10 +12,8 @@ class Solution:
 
         for i in range(2, n - 1):
             if notPrimes[i] == False:
-                k = i + i
-                while k <= (n - 1):
+                for k in range(2 * i, n, i):
                     notPrimes[k] = True
-                    k += i
 
         return notPrimes.count(False)
 
