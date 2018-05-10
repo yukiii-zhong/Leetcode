@@ -10,10 +10,10 @@ class Solution:
         notPrimes[0] = True
         notPrimes[1] = True
 
-        for i in range(2, n - 1):
+        for i in range(2, int((n - 1) ** 0.5) + 1):
             if notPrimes[i] == False:
-                for k in range(2 * i, n, i):
-                    notPrimes[k] = True
+
+                notPrimes[i*i:n:i] = len(notPrimes[i*i:n:i]) * [True]
 
         return notPrimes.count(False)
 
