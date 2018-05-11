@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/105. Construct Binary Tree from Preorder and Inorder Traversal.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,36 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="35. Search Insert Position.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/35. Search Insert Position.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="119. Pascal's Triangle II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/119. Pascal's Triangle II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="205. Isomorphic Strings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/205. Isomorphic Strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="204. Count Primes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/204. Count Primes.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="94. Binary Tree Inorder Traversal.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py">
+      <file leaf-file-name="105. Construct Binary Tree from Preorder and Inorder Traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="111">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,11 +50,13 @@
       <find>k</find>
       <find>strs[0]</find>
       <find>A</find>
+      <find>rootIndex</find>
     </findStrings>
     <replaceStrings>
       <replace>sentinel</replace>
       <replace>res</replace>
       <replace>lookup[dig]</replace>
+      <replace>x</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -93,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Linked List/23. Merge k Sorted Lists.py" />
         <option value="$PROJECT_DIR$/problems/__init__.py" />
         <option value="$PROJECT_DIR$/problems/TreeNode.py" />
         <option value="$PROJECT_DIR$/problems/226. Invert Binary Tree.py" />
@@ -144,6 +115,7 @@
         <option value="$PROJECT_DIR$/problems/205. Isomorphic Strings.py" />
         <option value="$PROJECT_DIR$/problems/204. Count Primes.py" />
         <option value="$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/problems/105. Construct Binary Tree from Preorder and Inorder Traversal.py" />
       </list>
     </option>
   </component>
@@ -373,13 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/22. Generate Parentheses.py" />
     <entry file="file://$PROJECT_DIR$/problems/226. Invert Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -742,6 +707,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/204. Count Primes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -750,10 +723,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/94. Binary Tree Inorder Traversal.py">
+    <entry file="file://$PROJECT_DIR$/problems/105. Construct Binary Tree from Preorder and Inorder Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="111">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
           <folding />
         </state>
       </provider>
