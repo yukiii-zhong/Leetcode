@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/347. Top K Frequent Elements.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/347. Top K Frequent Elements.py" afterPath="$PROJECT_DIR$/problems/347. Top K Frequent Elements.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,9 +36,12 @@
       <file leaf-file-name="347. Top K Frequent Elements.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/347. Top K Frequent Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="80">
+              <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+              <folding>
+                <element signature="e#61#650#0" expanded="false" />
+                <element signature="e#698#1300#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -742,9 +744,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/347. Top K Frequent Elements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="80">
+          <caret line="59" column="37" lean-forward="true" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
+          <folding>
+            <element signature="e#61#650#0" expanded="false" />
+            <element signature="e#698#1300#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
