@@ -25,3 +25,14 @@ class Solution:
                 return helper(nums, start, mid)
 
         return helper(nums, 1, len(nums) - 1)
+
+    def findDuplicate2(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        for num in nums:
+            if nums[abs(num)] < 0:
+                return abs(num)
+            else:
+                nums[abs(num)] = -nums[abs(num)]
