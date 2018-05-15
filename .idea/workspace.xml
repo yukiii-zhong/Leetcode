@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/62. Unique Paths.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/62. Unique Paths.py" afterPath="$PROJECT_DIR$/problems/62. Unique Paths.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +28,20 @@
       <file leaf-file-name="62. Unique Paths.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/62. Unique Paths.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="377">
+              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+              <folding>
+                <element signature="e#57#636#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="96. Unique Binary Search Trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/476. Number Complement.py" />
         <option value="$PROJECT_DIR$/problems/231. Power of Two.py" />
         <option value="$PROJECT_DIR$/problems/191. Number of 1 Bits.py" />
         <option value="$PROJECT_DIR$/problems/338. Counting Bits.py" />
@@ -115,6 +127,7 @@
         <option value="$PROJECT_DIR$/problems/287. Find the Duplicate Number.py" />
         <option value="$PROJECT_DIR$/problems/241. Different Ways to Add Parentheses.py" />
         <option value="$PROJECT_DIR$/problems/280. Wiggle Sort.py" />
+        <option value="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/problems/62. Unique Paths.py" />
       </list>
     </option>
@@ -166,24 +179,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.62. Unique Paths">
-    <configuration name="205. Isomorphic Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/205. Isomorphic Strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="241. Different Ways to Add Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,20 +251,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="96. Unique Binary Search Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.205. Isomorphic Strings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.347. Top K Frequent Elements" />
-      <item index="2" class="java.lang.String" itemvalue="Python.241. Different Ways to Add Parentheses" />
-      <item index="3" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.62. Unique Paths" />
+      <item index="0" class="java.lang.String" itemvalue="Python.347. Top K Frequent Elements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.241. Different Ways to Add Parentheses" />
+      <item index="2" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.62. Unique Paths" />
+      <item index="4" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.62. Unique Paths" />
-        <item index="1" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.241. Different Ways to Add Parentheses" />
-        <item index="3" class="java.lang.String" itemvalue="Python.347. Top K Frequent Elements" />
-        <item index="4" class="java.lang.String" itemvalue="Python.205. Isomorphic Strings" />
+        <item index="1" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
+        <item index="2" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.241. Different Ways to Add Parentheses" />
+        <item index="4" class="java.lang.String" itemvalue="Python.347. Top K Frequent Elements" />
       </list>
     </recent_temporary>
   </component>
@@ -345,14 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/338. Counting Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/191. Number of 1 Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -733,11 +738,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/62. Unique Paths.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="377">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="e#57#636#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

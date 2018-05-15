@@ -24,4 +24,30 @@ class Solution:
 
         return helper(m,n,{})
 
-print(Solution().uniquePaths(21,10))
+    def uniquePaths2(self, m, n):
+        """
+        :type m: int
+        :type n: int
+        :rtype: int
+        """
+        # finish A[0,0]
+        # start A[m-1,n-1]
+
+        A = [[0] * n] * m
+
+        A[0][0] = 1
+
+        for i in range(1, m):
+            A[i][0] = 1
+
+        for j in range(1, n):
+            A[0][j] = 1
+
+        for i in range(1, m):
+            for j in range(1, n):
+                A[i][j] = A[i - 1][j] + A[i][j - 1]
+
+        return A[m - 1][n - 1]
+
+
+print(Solution().uniquePaths2(21,10))
