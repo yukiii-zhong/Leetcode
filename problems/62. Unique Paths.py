@@ -30,19 +30,16 @@ class Solution:
         :type n: int
         :rtype: int
         """
-        # finish A[0,0]
-        # start A[m-1,n-1]
+        """
+        坐标系
+        Finish： A[0,0]
+        Start： A[m-1,n-1]
+        """
 
-        A = [[0] * n] * m
+        # 预先设定其他的都是[1],那么A[i][0], A[0][j],就不需要进行遍历
+        A = [[1] * n] * m
 
-        A[0][0] = 1
-
-        for i in range(1, m):
-            A[i][0] = 1
-
-        for j in range(1, n):
-            A[0][j] = 1
-
+        # 直接从A[1][1]开始
         for i in range(1, m):
             for j in range(1, n):
                 A[i][j] = A[i - 1][j] + A[i][j - 1]
