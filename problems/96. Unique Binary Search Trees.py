@@ -30,14 +30,19 @@ class Solution:
         return helper(n, {0:0, 1:1})
 
     def numTrees2(self, n):
-        nums = [0] * (n+1)
+        """
+        :type n: int
+        :rtype: int
+        """
+        nums = [0] * (n + 1)
         nums[0] = 1
         nums[1] = 1
 
-        for i in range(2,n+1):
-            for j in range(1,i+1):
-                nums[i] += nums[j-1] * nums[i-j]
+        for i in range(2, n + 1):
+            for j in range(1, i + 1):
+                nums[i] += nums[j - 1] * nums[i - j]
+
         return nums[n]
 
 
-print(Solution().numTrees2(3))
+print(Solution().numTrees2(4))
