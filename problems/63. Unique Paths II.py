@@ -4,36 +4,29 @@ class Solution:
         :type obstacleGrid: List[List[int]]
         :rtype: int
         """
-        n = len(obstacleGrid[0])
-        m = len(obstacleGrid)
+        def helper(A):
+            m = len(A)
+            n = len(A[0])
 
-        if obstacleGrid[m - 1][n - 1] == 1:
-            return 0
+            for i in range(m-1,-1,-1):
+                for j in range(n-1,-1,-1):
+                    # Finish
+                    if i == m-1 and j == n-1:
+                        A[i][j] ^=1
+                        continue
 
-        # Whem OG[m-1][n-1] ==0
-        count = [[0] * n] * m
+                    if A[i][j] == 1:
+                        A[i][j] = 0
+                    else:
+                        if i == m-1:
+                            A[i][j] = A[i][j+1]
+                        elif j == n-1:
+                            A[i][j] = A[i+1][j]
+                        else:
+                            A[i][j] = A[i+1][j] + A[i][j+1]
 
-        count[m - 1][n - 1] = 1
+            return A[0][0]
 
-        for i in range(m - 2, -1, -1):
-            if obstacleGrid[i][n - 1] == 1:
-                count[i][n - 1] = 0
-            else:
-                count[i][n - 1] = count[i + 1][n - 1]
+        return helper(obstacleGrid)
 
-        for j in range(n - 2, -1, -1):
-            if obstacleGrid[m - 1][j] == 1:
-                count[m - 1][j] = 0
-            else:
-                count[m - 1][j] = count[m - 1][j + 1]
-
-        for i in range(m - 2, -1, -1):
-            for j in range(n - 2, -1, -1):
-                if obstacleGrid[i][j] == 1:
-                    count[i][j] = 0
-                else:
-                    count[i][j] = count[i + 1][j] + count[i][j + 1]
-
-        return count[0][0]
-
-print(Solution().uniquePathsWithObstacles([[0,1],[0,0]]))
+print(Solution().uniquePathsWithObstacles([[0,0,0],[0,1,0],[0,0,0]]))
