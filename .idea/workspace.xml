@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/problems/63. Unique Paths II.py" afterPath="$PROJECT_DIR$/problems/63. Unique Paths II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,21 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="647. Palindromic Substrings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="647. Palindromic Substrings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="63. Unique Paths II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/63. Unique Paths II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-352">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -60,6 +52,7 @@
       <find>strs[0]</find>
       <find>A</find>
       <find>rootIndex</find>
+      <find>left</find>
     </findStrings>
     <replaceStrings>
       <replace>sentinel</replace>
@@ -74,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/338. Counting Bits.py" />
-        <option value="$PROJECT_DIR$/problems/137. Single Number II.py" />
         <option value="$PROJECT_DIR$/problems/260. Single Number III.py" />
         <option value="$PROJECT_DIR$/problems/349. Intersection of Two Arrays.py" />
         <option value="$PROJECT_DIR$/problems/13. Roman to Integer.py" />
@@ -125,6 +116,8 @@
         <option value="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/problems/647. Palindromic Substrings.py" />
         <option value="$PROJECT_DIR$/problems/63. Unique Paths II.py" />
+        <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
+        <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
       </list>
     </option>
   </component>
@@ -174,43 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.63. Unique Paths II">
-    <configuration name="280. Wiggle Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/280. Wiggle Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="62. Unique Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/62. Unique Paths.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.95. Unique Binary Search Trees II (2">
     <configuration name="63. Unique Paths II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,6 +204,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="95. Unique Binary Search Trees II (2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="95. Unique Binary Search Trees II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="96. Unique Binary Search Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,19 +259,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.62. Unique Paths" />
-      <item index="2" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
-      <item index="3" class="java.lang.String" itemvalue="Python.647. Palindromic Substrings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
+      <item index="1" class="java.lang.String" itemvalue="Python.647. Palindromic Substrings" />
+      <item index="2" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.647. Palindromic Substrings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
-        <item index="3" class="java.lang.String" itemvalue="Python.62. Unique Paths" />
-        <item index="4" class="java.lang.String" itemvalue="Python.280. Wiggle Sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.647. Palindromic Substrings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.96. Unique Binary Search Trees" />
       </list>
     </recent_temporary>
   </component>
@@ -349,20 +342,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/TreeNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/137. Single Number II.py" />
     <entry file="file://$PROJECT_DIR$/problems/260. Single Number III.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -728,14 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -746,8 +729,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/63. Unique Paths II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
+        <state relative-caret-position="-178">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#57#478#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="853">
+          <caret line="72" column="12" lean-forward="true" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+          <folding>
+            <element signature="e#20#441#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
