@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/64. Minimum Path Sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="647. Palindromic Substrings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="647. Palindromic Substrings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="64. Minimum Path Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/64. Minimum Path Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -67,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/260. Single Number III.py" />
         <option value="$PROJECT_DIR$/problems/349. Intersection of Two Arrays.py" />
         <option value="$PROJECT_DIR$/problems/13. Roman to Integer.py" />
         <option value="$PROJECT_DIR$/problems/171. Excel Sheet Column Number.py" />
@@ -118,6 +126,7 @@
         <option value="$PROJECT_DIR$/problems/63. Unique Paths II.py" />
         <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
         <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
+        <option value="$PROJECT_DIR$/problems/64. Minimum Path Sum.py" />
       </list>
     </option>
   </component>
@@ -354,14 +363,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/260. Single Number III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/349. Intersection of Two Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -759,6 +760,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/64. Minimum Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
       </provider>
