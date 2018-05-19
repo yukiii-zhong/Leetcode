@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/139. Word Break.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="139. Word Break.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="139. Word Break.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/139. Word Break.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="37" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5. Longest Palindromic Substring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/13. Roman to Integer.py" />
         <option value="$PROJECT_DIR$/problems/171. Excel Sheet Column Number.py" />
         <option value="$PROJECT_DIR$/problems/242. Valid Anagram.py" />
         <option value="$PROJECT_DIR$/problems/383. Ransom Note.py" />
@@ -137,6 +146,7 @@
         <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py" />
         <option value="$PROJECT_DIR$/problems/64. Minimum Path Sum.py" />
         <option value="$PROJECT_DIR$/problems/139. Word Break.py" />
+        <option value="$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py" />
       </list>
     </option>
   </component>
@@ -373,14 +383,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/171. Excel Sheet Column Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/242. Valid Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -778,6 +780,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
