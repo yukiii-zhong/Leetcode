@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/18. 4Sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" afterPath="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +18,8 @@
       <file leaf-file-name="96. Unique Binary Search Trees.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="44" selection-end-column="22" />
+            <state relative-caret-position="480">
+              <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="44" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -37,7 +38,7 @@
       <file leaf-file-name="64. Minimum Path Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/64. Minimum Path Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="300">
               <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding />
             </state>
@@ -47,7 +48,7 @@
       <file leaf-file-name="139. Word Break.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/139. Word Break.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="330">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="37" selection-end-column="21" />
               <folding />
             </state>
@@ -57,7 +58,7 @@
       <file leaf-file-name="5. Longest Palindromic Substring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="285">
               <caret line="19" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
@@ -74,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6. ZigZag Conversion.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6. ZigZag Conversion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/6. ZigZag Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="380">
+              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18. 4Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/18. 4Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,7 +98,7 @@
       <file leaf-file-name="3. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="240">
               <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding />
             </state>
@@ -126,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/387. First Unique Character in a String.py" />
         <option value="$PROJECT_DIR$/problems/202. Happy Number.py" />
         <option value="$PROJECT_DIR$/problems/344. Reverse String.py" />
         <option value="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
@@ -177,14 +187,15 @@
         <option value="$PROJECT_DIR$/problems/221. Maximal Square.py" />
         <option value="$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
+        <option value="$PROJECT_DIR$/problems/18. 4Sum.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="871" />
     <option name="y" value="23" />
-    <option name="width" value="695" />
-    <option name="height" value="877" />
+    <option name="width" value="1049" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -351,7 +362,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="23" width="1391" height="877" extended-state="6" />
+    <frame x="871" y="23" width="1049" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2376344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -359,13 +370,13 @@
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48447204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48447204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -413,14 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/14. Longest Common Prefix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/344. Reverse String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -732,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="44" selection-end-column="22" />
+        <state relative-caret-position="480">
+          <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="44" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -766,17 +769,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/64. Minimum Path Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="300">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
@@ -784,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/139. Word Break.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
@@ -792,7 +787,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="285">
           <caret line="19" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
@@ -800,7 +795,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="240">
           <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding />
         </state>
@@ -814,10 +809,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/6. ZigZag Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/18. 4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>

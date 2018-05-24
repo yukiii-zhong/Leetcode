@@ -5,18 +5,17 @@ class Solution:
         :type numRows: int
         :rtype: str
         """
-        if numRows == 1: return s
+        if numRows <= 1: return s
 
-        turned = [""] * numRows
+        res = [""] * numRows
 
         r = 0
+        step = -1
 
-        for i in range(len(s)):
-            turned[r] += s[i]
-            if i % ((numRows - 1) * 2) < (numRows - 1):
-                r += 1
-            else:
-                r -= 1
+        for ch in s:
+            res[r] += ch
+            if r == numRows - 1 or r == 0:
+                step *= -1
+            r += step
 
-        return "".join(turned)
-
+        return "".join(res)
