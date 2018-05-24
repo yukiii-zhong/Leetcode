@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/18. 4Sum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/75. Sort Colors.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" afterPath="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18. 4Sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="18. 4Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/18. 4Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="702">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="75. Sort Colors.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/75. Sort Colors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/202. Happy Number.py" />
         <option value="$PROJECT_DIR$/problems/344. Reverse String.py" />
         <option value="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
         <option value="$PROJECT_DIR$/problems/7. Reverse Integer.py" />
@@ -188,6 +196,7 @@
         <option value="$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
         <option value="$PROJECT_DIR$/problems/18. 4Sum.py" />
+        <option value="$PROJECT_DIR$/problems/75. Sort Colors.py" />
       </list>
     </option>
   </component>
@@ -424,14 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/344. Reverse String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="34" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/202. Happy Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -829,6 +830,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/75. Sort Colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
