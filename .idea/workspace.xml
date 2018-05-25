@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/75. Sort Colors.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/8. String to Integer (atoi).py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="96. Unique Binary Search Trees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="44" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="647. Palindromic Substrings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/647. Palindromic Substrings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="75. Sort Colors.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="75. Sort Colors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/75. Sort Colors.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8. String to Integer (atoi).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/8. String to Integer (atoi).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/344. Reverse String.py" />
         <option value="$PROJECT_DIR$/problems/14. Longest Common Prefix.py" />
         <option value="$PROJECT_DIR$/problems/7. Reverse Integer.py" />
         <option value="$PROJECT_DIR$/problems/9. Palindrome Number.py" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
         <option value="$PROJECT_DIR$/problems/18. 4Sum.py" />
         <option value="$PROJECT_DIR$/problems/75. Sort Colors.py" />
+        <option value="$PROJECT_DIR$/problems/8. String to Integer (atoi).py" />
       </list>
     </option>
   </component>
@@ -246,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3. Longest Substring Without Repeating Characters">
+  <component name="RunManager" selected="Python.8. String to Integer (atoi)">
     <configuration name="139. Word Break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +283,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="63. Unique Paths II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8. String to Integer (atoi)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,7 +295,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/63. Unique Paths II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/8. String to Integer (atoi).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +338,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.139. Word Break" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3. Longest Substring Without Repeating Characters" />
+      <item index="0" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.139. Word Break" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3. Longest Substring Without Repeating Characters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.8. String to Integer (atoi)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3. Longest Substring Without Repeating Characters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.139. Word Break" />
-        <item index="2" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.63. Unique Paths II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.8. String to Integer (atoi)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3. Longest Substring Without Repeating Characters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.139. Word Break" />
+        <item index="3" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II (2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.95. Unique Binary Search Trees II" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +379,7 @@
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48447204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48426396" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,14 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/202. Happy Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/387. First Unique Character in a String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -838,6 +830,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/8. String to Integer (atoi).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
       </provider>
