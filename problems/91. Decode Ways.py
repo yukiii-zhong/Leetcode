@@ -5,27 +5,18 @@ class Solution:
         :rtype: int
         """
 
-        self.mem = [-1] * (len(s) + 1)
+        mem = [-1] * (len(s) + 1)
+        mem[-1] = 1
 
-        def dfs(i):
-            if self.mem[i] != -1:
-                return self.mem[i]
-
-            if i == len(s):
-                return 1
-            # Then i < len(s)
-            elif s[i] == '0':
-                return 0
-            # Then i<len(s), and s[i] != '0'
+        for i in range(len(s) - 1, -1, -1):
+            if s[i] == '0':
+                mem[i] = 0
             elif i == len(s) - 1:
-                return 1
+                mem[i] = 1
+            else:
+                # s[i] != '0' and i<len(s)-1
+                mem[i] = mem[i + 1]
+                if int(s[i]) * 10 + int(s[i + 1]) <= 26:
+                    mem[i] += mem[i + 2]
 
-            # i<len(s)-1, s[i] != '0'
-            self.mem[i] = 0
-            if int(s[i:i + 2]) <= 26:
-                self.mem[i] += dfs(i + 2)
-            self.mem[i] += dfs(i + 1)
-
-            return self.mem[i]
-
-        return dfs(0)
+        return mem[0]
