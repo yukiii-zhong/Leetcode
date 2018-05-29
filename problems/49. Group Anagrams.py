@@ -13,4 +13,4 @@ class Solution:
                 mapp[temp].append(s)
         return list(mapp.values())
 
-print(Solution().groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+print(type(list({2:3}.values())))

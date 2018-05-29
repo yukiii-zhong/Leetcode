@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/practice.py" afterPath="$PROJECT_DIR$/problems/practice.py" />
+      <change beforePath="$PROJECT_DIR$/problems/49. Group Anagrams.py" afterPath="$PROJECT_DIR$/problems/49. Group Anagrams.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="75. Sort Colors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/75. Sort Colors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="8. String to Integer (atoi).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/8. String to Integer (atoi).py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="49. Group Anagrams.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="49. Group Anagrams.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/49. Group Anagrams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="36. Valid Sudoku.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/36. Valid Sudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="647">
+              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -146,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/论文第5稿+致谢 0504.py" />
         <option value="$PROJECT_DIR$/problems/198. House Robber.py" />
         <option value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
         <option value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
@@ -197,6 +197,7 @@
         <option value="$PROJECT_DIR$/problems/practice.py" />
         <option value="$PROJECT_DIR$/problems/44.py" />
         <option value="$PROJECT_DIR$/problems/49. Group Anagrams.py" />
+        <option value="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
       </list>
     </option>
   </component>
@@ -381,7 +382,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21421319" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21421319" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -433,7 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/论文第5稿+致谢 0504.py" />
     <entry file="file://$PROJECT_DIR$/problems/198. House Robber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -834,8 +834,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/49. Group Anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/36. Valid Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
           <folding />
         </state>
       </provider>
