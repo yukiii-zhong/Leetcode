@@ -1,3 +1,3 @@
-test = [0]*10
-test[0] +=1
-print(test)
+l1 = [1,1,1,1,2]
+l1.remove(1)
+print(l1)
