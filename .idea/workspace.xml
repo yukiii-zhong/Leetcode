@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/47. Permutations II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/31. Next Permutation.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/practice.py" afterPath="$PROJECT_DIR$/problems/practice.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="47. Permutations II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="47. Permutations II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/47. Permutations II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            <state relative-caret-position="324">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="31. Next Permutation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/31. Next Permutation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -67,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
         <option value="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
         <option value="$PROJECT_DIR$/problems/67. Add Binary.py" />
         <option value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
@@ -118,6 +126,7 @@
         <option value="$PROJECT_DIR$/problems/43. Multiply Strings.py" />
         <option value="$PROJECT_DIR$/problems/practice.py" />
         <option value="$PROJECT_DIR$/problems/47. Permutations II.py" />
+        <option value="$PROJECT_DIR$/problems/31. Next Permutation.py" />
       </list>
     </option>
   </component>
@@ -354,14 +363,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/238. Product of Array Except Self.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -753,8 +754,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/47. Permutations II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="324">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/31. Next Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>
