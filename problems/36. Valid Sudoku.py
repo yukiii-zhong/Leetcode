@@ -34,7 +34,7 @@ class Solution:
                                 return False
 
         return True
-    
+
 
     def isValidSudoku2(self, board):
         """

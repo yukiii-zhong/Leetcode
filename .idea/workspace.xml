@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/43. Multiply Strings.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/49. Group Anagrams.py" afterPath="$PROJECT_DIR$/problems/49. Group Anagrams.py" />
+      <change beforePath="$PROJECT_DIR$/problems/36. Valid Sudoku.py" afterPath="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8. String to Integer (atoi).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/8. String to Integer (atoi).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="91. Decode Ways.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/91. Decode Ways.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/problems/107. Binary Tree Level Order Traversal II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,7 +58,7 @@
       <file leaf-file-name="33. Search in Rotated Sorted Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/33. Search in Rotated Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="315">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
@@ -88,8 +78,8 @@
       <file leaf-file-name="practice.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,7 +88,7 @@
       <file leaf-file-name="49. Group Anagrams.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/49. Group Anagrams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="225">
               <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
@@ -108,8 +98,18 @@
       <file leaf-file-name="36. Valid Sudoku.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/36. Valid Sudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+            <state relative-caret-position="540">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="43. Multiply Strings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/43. Multiply Strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -147,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/198. House Robber.py" />
         <option value="$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py" />
         <option value="$PROJECT_DIR$/problems/238. Product of Array Except Self.py" />
         <option value="$PROJECT_DIR$/problems/172. Factorial Trailing Zeroes.py" />
@@ -198,6 +197,7 @@
         <option value="$PROJECT_DIR$/problems/44.py" />
         <option value="$PROJECT_DIR$/problems/49. Group Anagrams.py" />
         <option value="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
+        <option value="$PROJECT_DIR$/problems/43. Multiply Strings.py" />
       </list>
     </option>
   </component>
@@ -247,25 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.49. Group Anagrams">
-    <configuration name="33. Search in Rotated Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/33. Search in Rotated Sorted Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.43. Multiply Strings">
     <configuration name="34. Search for a Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,6 +261,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/34. Search for a Range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="43. Multiply Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/43. Multiply Strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,18 +340,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
-      <item index="1" class="java.lang.String" itemvalue="Python.33. Search in Rotated Sorted Array" />
-      <item index="2" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="3" class="java.lang.String" itemvalue="Python.34. Search for a Range" />
-      <item index="4" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
+      <item index="1" class="java.lang.String" itemvalue="Python.practice" />
+      <item index="2" class="java.lang.String" itemvalue="Python.34. Search for a Range" />
+      <item index="3" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
+      <item index="4" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
-        <item index="1" class="java.lang.String" itemvalue="Python.practice" />
-        <item index="2" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
-        <item index="3" class="java.lang.String" itemvalue="Python.34. Search for a Range" />
-        <item index="4" class="java.lang.String" itemvalue="Python.33. Search in Rotated Sorted Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
+        <item index="1" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
+        <item index="2" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
+        <item index="4" class="java.lang.String" itemvalue="Python.34. Search for a Range" />
       </list>
     </recent_temporary>
   </component>
@@ -434,14 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/198. House Robber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/17. Letter Combinations of a Phone Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -779,14 +771,14 @@
     <entry file="file://$PROJECT_DIR$/problems/107. Binary Tree Level Order Traversal II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/33. Search in Rotated Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="315">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
@@ -816,34 +808,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/44.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/44.py" />
     <entry file="file://$PROJECT_DIR$/problems/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/49. Group Anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="225">
           <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/43. Multiply Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/36. Valid Sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
