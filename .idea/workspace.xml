@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/73. Set Matrix Zeroes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/54. Spiral Matrix.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/problems/practice.py" afterPath="$PROJECT_DIR$/problems/practice.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="practice.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="practice.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="81">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -44,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="73. Set Matrix Zeroes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="73. Set Matrix Zeroes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/73. Set Matrix Zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="54. Spiral Matrix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/54. Spiral Matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -86,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/67. Add Binary.py" />
         <option value="$PROJECT_DIR$/problems/28. Implement strStr().py" />
         <option value="$PROJECT_DIR$/problems/326. Power of Three.py" />
         <option value="$PROJECT_DIR$/problems/110. Balanced Binary Tree.ipynb" />
@@ -133,10 +143,11 @@
         <option value="$PROJECT_DIR$/problems/49. Group Anagrams.py" />
         <option value="$PROJECT_DIR$/problems/36. Valid Sudoku.py" />
         <option value="$PROJECT_DIR$/problems/43. Multiply Strings.py" />
-        <option value="$PROJECT_DIR$/problems/practice.py" />
         <option value="$PROJECT_DIR$/problems/47. Permutations II.py" />
         <option value="$PROJECT_DIR$/problems/31. Next Permutation.py" />
         <option value="$PROJECT_DIR$/problems/73. Set Matrix Zeroes.py" />
+        <option value="$PROJECT_DIR$/problems/54. Spiral Matrix.py" />
+        <option value="$PROJECT_DIR$/problems/practice.py" />
       </list>
     </option>
   </component>
@@ -186,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.47. Permutations II">
+  <component name="RunManager" selected="Python.practice">
     <configuration name="43. Multiply Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,8 +297,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.47. Permutations II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="0" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="1" class="java.lang.String" itemvalue="Python.47. Permutations II" />
         <item index="2" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
         <item index="3" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
         <item index="4" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
@@ -373,16 +384,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/67. Add Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="e#55#178#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/28. Implement strStr().py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -746,14 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/47. Permutations II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -774,6 +767,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/54. Spiral Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
           <folding />
         </state>
       </provider>

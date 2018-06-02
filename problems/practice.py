@@ -1,3 +1,4 @@
-l1 = [1,1,1,1,2]
-l1.remove(1)
-print(l1)
+A = [1,2,3,]
+
+for i in range(8,-1,-1):
+    print(A[i])
