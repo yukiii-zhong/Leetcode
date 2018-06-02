@@ -1,4 +1,1 @@
-A = [1,2,3,]
-
-for i in range(8,-1,-1):
-    print(A[i])
+print([[0 for _ in range(3) ] for _ in range(3)])
