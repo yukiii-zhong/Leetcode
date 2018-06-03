@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/40. Combination Sum II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/89. Gray Code.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/77. Combinations.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="40. Combination Sum II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="40. Combination Sum II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/40. Combination Sum II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="77. Combinations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/77. Combinations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -127,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/110. Balanced Binary Tree.py" />
         <option value="$PROJECT_DIR$/problems/235. Lowest Common Ancestor of a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/problems/69. Sqrt(x).py" />
         <option value="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
@@ -178,6 +186,7 @@
         <option value="$PROJECT_DIR$/problems/59. Spiral Matrix II.py" />
         <option value="$PROJECT_DIR$/problems/89. Gray Code.py" />
         <option value="$PROJECT_DIR$/problems/40. Combination Sum II.py" />
+        <option value="$PROJECT_DIR$/problems/77. Combinations.py" />
       </list>
     </option>
   </component>
@@ -414,14 +423,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/110. Balanced Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/235. Lowest Common Ancestor of a Binary Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -820,6 +821,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/77. Combinations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
         </state>
       </provider>
