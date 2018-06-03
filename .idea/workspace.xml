@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/74. Search a 2D Matrix.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="74. Search a 2D Matrix.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="74. Search a 2D Matrix.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/74. Search a 2D Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
+            <state relative-caret-position="840">
               <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="47. Permutations II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/47. Permutations II.py">
+      <file leaf-file-name="80. Remove Duplicates from Sorted Array II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/69. Sqrt(x).py" />
         <option value="$PROJECT_DIR$/problems/125. Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/problems/263. Ugly Number.py" />
         <option value="$PROJECT_DIR$/problems/345. Reverse Vowels of a String.py" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/problems/40. Combination Sum II.py" />
         <option value="$PROJECT_DIR$/problems/77. Combinations.py" />
         <option value="$PROJECT_DIR$/problems/74. Search a 2D Matrix.py" />
+        <option value="$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py" />
       </list>
     </option>
   </component>
@@ -246,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practice">
+  <component name="RunManager" selected="Python.80. Remove Duplicates from Sorted Array II">
     <configuration name="43. Multiply Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,7 +301,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="91. Decode Ways" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="80. Remove Duplicates from Sorted Array II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,7 +313,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/91. Decode Ways.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +338,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
-      <item index="1" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="2" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
-      <item index="3" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.47. Permutations II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.practice" />
+      <item index="1" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
+      <item index="2" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.47. Permutations II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.80. Remove Duplicates from Sorted Array II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.practice" />
-        <item index="1" class="java.lang.String" itemvalue="Python.47. Permutations II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
-        <item index="3" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
-        <item index="4" class="java.lang.String" itemvalue="Python.91. Decode Ways" />
+        <item index="0" class="java.lang.String" itemvalue="Python.80. Remove Duplicates from Sorted Array II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="2" class="java.lang.String" itemvalue="Python.47. Permutations II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.43. Multiply Strings" />
+        <item index="4" class="java.lang.String" itemvalue="Python.49. Group Anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -433,14 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/69. Sqrt(x).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/125. Valid Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -837,8 +829,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/74. Search a 2D Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="840">
           <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
