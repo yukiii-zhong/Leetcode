@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="practice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="59. Spiral Matrix II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/59. Spiral Matrix II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="153. Find Minimum in Rotated Sorted Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="153. Find Minimum in Rotated Sorted Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="116. Populating Next Right Pointers in Each Node.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py" />
         <option value="$PROJECT_DIR$/problems/35. Search Insert Position.py" />
         <option value="$PROJECT_DIR$/problems/119. Pascal's Triangle II.py" />
         <option value="$PROJECT_DIR$/problems/205. Isomorphic Strings.py" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/problems/120. Triangle.py" />
         <option value="$PROJECT_DIR$/problems/150. Evaluate Reverse Polish Notation.py" />
         <option value="$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py" />
+        <option value="$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py" />
       </list>
     </option>
   </component>
@@ -433,14 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/35. Search Insert Position.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -839,6 +831,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding />
         </state>
       </provider>
