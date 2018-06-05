@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/150. Evaluate Reverse Polish Notation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="150. Evaluate Reverse Polish Notation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="150. Evaluate Reverse Polish Notation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/150. Evaluate Reverse Polish Notation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="580">
@@ -104,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="54. Spiral Matrix.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/54. Spiral Matrix.py">
+      <file leaf-file-name="153. Find Minimum in Rotated Sorted Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/345. Reverse Vowels of a String.py" />
         <option value="$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py" />
         <option value="$PROJECT_DIR$/problems/35. Search Insert Position.py" />
         <option value="$PROJECT_DIR$/problems/119. Pascal's Triangle II.py" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/problems/80. Remove Duplicates from Sorted Array II.py" />
         <option value="$PROJECT_DIR$/problems/120. Triangle.py" />
         <option value="$PROJECT_DIR$/problems/150. Evaluate Reverse Polish Notation.py" />
+        <option value="$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py" />
       </list>
     </option>
   </component>
@@ -433,14 +433,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/345. Reverse Vowels of a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/303. Range Sum Query - Immutable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -839,6 +831,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/153. Find Minimum in Rotated Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
