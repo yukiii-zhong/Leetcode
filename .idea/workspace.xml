@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/117. Populating Next Right Pointers in Each Node II.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/162. Find Peak Element.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/200. Number of Islands.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problems/practice.py" afterPath="$PROJECT_DIR$/problems/practice.py" />
+      <change beforePath="$PROJECT_DIR$/problems/200. Number of Islands.py" afterPath="$PROJECT_DIR$/problems/200. Number of Islands.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="162. Find Peak Element.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="162. Find Peak Element.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/162. Find Peak Element.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -107,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="200. Number of Islands.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="200. Number of Islands.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/200. Number of Islands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="59" />
+            <state relative-caret-position="460">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -198,10 +194,10 @@
         <option value="$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py" />
         <option value="$PROJECT_DIR$/problems/55. Jump Game.py" />
         <option value="$PROJECT_DIR$/problems/279. Perfect Squares.py" />
-        <option value="$PROJECT_DIR$/problems/200. Number of Islands.py" />
         <option value="$PROJECT_DIR$/problems/practice.py" />
         <option value="$PROJECT_DIR$/problems/117. Populating Next Right Pointers in Each Node II.py" />
         <option value="$PROJECT_DIR$/problems/162. Find Peak Element.py" />
+        <option value="$PROJECT_DIR$/problems/200. Number of Islands.py" />
       </list>
     </option>
   </component>
@@ -816,18 +812,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/200. Number of Islands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/162. Find Peak Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -840,10 +836,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/162. Find Peak Element.py">
+    <entry file="file://$PROJECT_DIR$/problems/200. Number of Islands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="460">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
