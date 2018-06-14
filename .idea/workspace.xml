@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/79. Word Search.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/60. Permutation Sequence.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,16 +38,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="116. Populating Next Right Pointers in Each Node.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/116. Populating Next Right Pointers in Each Node.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -104,11 +93,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="79. Word Search.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="79. Word Search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/79. Word Search.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
               <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="60. Permutation Sequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/60. Permutation Sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -148,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/347. Top K Frequent Elements.py" />
         <option value="$PROJECT_DIR$/problems/78. Subsets.py" />
         <option value="$PROJECT_DIR$/problems/287. Find the Duplicate Number.py" />
         <option value="$PROJECT_DIR$/problems/241. Different Ways to Add Parentheses.py" />
@@ -199,6 +197,7 @@
         <option value="$PROJECT_DIR$/problems/162. Find Peak Element.py" />
         <option value="$PROJECT_DIR$/problems/200. Number of Islands.py" />
         <option value="$PROJECT_DIR$/problems/79. Word Search.py" />
+        <option value="$PROJECT_DIR$/problems/60. Permutation Sequence.py" />
       </list>
     </option>
   </component>
@@ -248,25 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.79. Word Search">
-    <configuration name="150. Evaluate Reverse Polish Notation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/150. Evaluate Reverse Polish Notation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.60. Permutation Sequence">
     <configuration name="200. Number of Islands" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,6 +279,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/279. Perfect Squares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="60. Permutation Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/60. Permutation Sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,18 +340,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.150. Evaluate Reverse Polish Notation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.279. Perfect Squares" />
-      <item index="3" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
-      <item index="4" class="java.lang.String" itemvalue="Python.79. Word Search" />
+      <item index="1" class="java.lang.String" itemvalue="Python.279. Perfect Squares" />
+      <item index="2" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
+      <item index="3" class="java.lang.String" itemvalue="Python.79. Word Search" />
+      <item index="4" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.79. Word Search" />
-        <item index="1" class="java.lang.String" itemvalue="Python.practice" />
-        <item index="2" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
-        <item index="3" class="java.lang.String" itemvalue="Python.279. Perfect Squares" />
-        <item index="4" class="java.lang.String" itemvalue="Python.150. Evaluate Reverse Polish Notation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.79. Word Search" />
+        <item index="2" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.200. Number of Islands" />
+        <item index="4" class="java.lang.String" itemvalue="Python.279. Perfect Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -435,13 +434,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/78. Subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/287. Find the Duplicate Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -795,6 +787,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/60. Permutation Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="23" />
           <folding />
         </state>
       </provider>
