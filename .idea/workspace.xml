@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/134. Gas Station.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/problems/289. Game of Life.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/problems/42. Trapping Rain Water.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="289. Game of Life.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="289. Game of Life.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/289. Game of Life.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
@@ -103,6 +102,18 @@
               <folding>
                 <element signature="e#705#792#0" expanded="false" />
                 <element signature="e#842#1286#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="42. Trapping Rain Water.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/42. Trapping Rain Water.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding>
+                <element signature="e#245#437#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -142,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/241. Different Ways to Add Parentheses.py" />
         <option value="$PROJECT_DIR$/problems/280. Wiggle Sort.py" />
         <option value="$PROJECT_DIR$/problems/62. Unique Paths.py" />
         <option value="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
@@ -193,6 +203,7 @@
         <option value="$PROJECT_DIR$/problems/60. Permutation Sequence.py" />
         <option value="$PROJECT_DIR$/problems/134. Gas Station.py" />
         <option value="$PROJECT_DIR$/problems/289. Game of Life.py" />
+        <option value="$PROJECT_DIR$/problems/42. Trapping Rain Water.py" />
       </list>
     </option>
   </component>
@@ -242,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.289. Game of Life">
+  <component name="RunManager" selected="Python.42. Trapping Rain Water">
     <configuration name="134. Gas Station" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +285,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/289. Game of Life.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="42. Trapping Rain Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/42. Trapping Rain Water.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,38 +344,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.practice" />
-      <item index="1" class="java.lang.String" itemvalue="Python.79. Word Search" />
-      <item index="2" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.134. Gas Station" />
-      <item index="4" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+      <item index="0" class="java.lang.String" itemvalue="Python.79. Word Search" />
+      <item index="1" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.134. Gas Station" />
+      <item index="3" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+      <item index="4" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-        <item index="1" class="java.lang.String" itemvalue="Python.134. Gas Station" />
-        <item index="2" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.79. Word Search" />
-        <item index="4" class="java.lang.String" itemvalue="Python.practice" />
+        <item index="0" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
+        <item index="1" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+        <item index="2" class="java.lang.String" itemvalue="Python.134. Gas Station" />
+        <item index="3" class="java.lang.String" itemvalue="Python.60. Permutation Sequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.79. Word Search" />
       </list>
     </recent_temporary>
   </component>
@@ -429,13 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/62. Unique Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -796,6 +800,16 @@
           <folding>
             <element signature="e#705#792#0" expanded="false" />
             <element signature="e#842#1286#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/42. Trapping Rain Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#245#437#0" expanded="false" />
           </folding>
         </state>
       </provider>
