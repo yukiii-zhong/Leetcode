@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="106. Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="106. Construct Binary Tree from Inorder and Postorder Traversal.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="209. Minimum Size Subarray Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/209. Minimum Size Subarray Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -68,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/96. Unique Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/problems/647. Palindromic Substrings.py" />
         <option value="$PROJECT_DIR$/problems/63. Unique Paths II.py" />
         <option value="$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py" />
@@ -119,6 +128,7 @@
         <option value="$PROJECT_DIR$/problems/42. Trapping Rain Water.py" />
         <option value="$PROJECT_DIR$/problems/90. Subsets II.py" />
         <option value="$PROJECT_DIR$/106. Construct Binary Tree from Inorder and Postorder Traversal.py" />
+        <option value="$PROJECT_DIR$/209. Minimum Size Subarray Sum.py" />
       </list>
     </option>
   </component>
@@ -355,13 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/95. Unique Binary Search Trees II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/95. Unique Binary Search Trees II (2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="853">
@@ -727,6 +730,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/209. Minimum Size Subarray Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding />
         </state>
       </provider>
