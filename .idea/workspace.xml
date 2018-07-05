@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/290. Word Pattern.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/299. Bulls and Cows.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="290. Word Pattern.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="290. Word Pattern.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/290. Word Pattern.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
               <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="299. Bulls and Cows.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/299. Bulls and Cows.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -58,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/64. Minimum Path Sum.py" />
         <option value="$PROJECT_DIR$/problems/139. Word Break.py" />
         <option value="$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py" />
         <option value="$PROJECT_DIR$/problems/221. Maximal Square.py" />
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/problems/170. Two Sum III - Data structure design.py" />
         <option value="$PROJECT_DIR$/249. Group Shifted Strings.py" />
         <option value="$PROJECT_DIR$/290. Word Pattern.py" />
+        <option value="$PROJECT_DIR$/299. Bulls and Cows.py" />
       </list>
     </option>
   </component>
@@ -158,25 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.290. Word Pattern">
-    <configuration name="134. Gas Station" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/134. Gas Station.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.299. Bulls and Cows">
     <configuration name="277. Find the Celebrity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,6 +223,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="299. Bulls and Cows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/299. Bulls and Cows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="42. Trapping Rain Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,19 +260,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.134. Gas Station" />
-      <item index="1" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-      <item index="2" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
-      <item index="3" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
-      <item index="4" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
+      <item index="0" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+      <item index="1" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
+      <item index="2" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
+      <item index="3" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
+      <item index="4" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
-        <item index="1" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
-        <item index="2" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
-        <item index="3" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-        <item index="4" class="java.lang.String" itemvalue="Python.134. Gas Station" />
+        <item index="0" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
+        <item index="1" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
+        <item index="2" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
+        <item index="3" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
+        <item index="4" class="java.lang.String" itemvalue="Python.289. Game of Life" />
       </list>
     </recent_temporary>
   </component>
@@ -345,13 +355,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/221. Maximal Square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -694,6 +697,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="71" lean-forward="false" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/299. Bulls and Cows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>
