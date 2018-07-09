@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/274. H-Index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/127. Word Ladder.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="274. H-Index.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="274. H-Index.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/274. H-Index.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="127. Word Ladder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/127. Word Ladder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -78,8 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/5. Longest Palindromic Substring.py" />
-        <option value="$PROJECT_DIR$/problems/221. Maximal Square.py" />
         <option value="$PROJECT_DIR$/problems/3. Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/problems/6. ZigZag Conversion.py" />
         <option value="$PROJECT_DIR$/problems/18. 4Sum.py" />
@@ -129,6 +137,8 @@
         <option value="$PROJECT_DIR$/290. Word Pattern.py" />
         <option value="$PROJECT_DIR$/299. Bulls and Cows.py" />
         <option value="$PROJECT_DIR$/274. H-Index.py" />
+        <option value="$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles/mindstorms.py" />
+        <option value="$PROJECT_DIR$/127. Word Ladder.py" />
       </list>
     </option>
   </component>
@@ -178,7 +188,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.299. Bulls and Cows">
+  <component name="RunManager" selected="Python.127. Word Ladder">
+    <configuration name="127. Word Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/127. Word Ladder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="277. Find the Celebrity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,24 +220,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/277. Find the Celebrity.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="289. Game of Life" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/289. Game of Life.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,38 +261,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="42. Trapping Rain Water" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mindstorms" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problems" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problems/42. Trapping Rain Water.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles/mindstorms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.289. Game of Life" />
-      <item index="1" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
-      <item index="2" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
-      <item index="3" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
-      <item index="4" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
+      <item index="0" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
+      <item index="1" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
+      <item index="2" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mindstorms" />
+      <item index="4" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
-        <item index="1" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
-        <item index="2" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
-        <item index="3" class="java.lang.String" itemvalue="Python.42. Trapping Rain Water" />
-        <item index="4" class="java.lang.String" itemvalue="Python.289. Game of Life" />
+        <item index="0" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
+        <item index="1" class="java.lang.String" itemvalue="Python.mindstorms" />
+        <item index="2" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
+        <item index="3" class="java.lang.String" itemvalue="Python.290. Word Pattern" />
+        <item index="4" class="java.lang.String" itemvalue="Python.277. Find the Celebrity" />
       </list>
     </recent_temporary>
   </component>
@@ -365,20 +375,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/6. ZigZag Conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/18. 4Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/75. Sort Colors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -712,10 +708,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles/mindstorms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/274. H-Index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/127. Word Ladder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
           <folding />
         </state>
       </provider>
