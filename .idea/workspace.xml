@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/247. Strobogrammatic Number II.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/151. Reverse Words in a String.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/29. Divide Two Integers.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="247. Strobogrammatic Number II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="247. Strobogrammatic Number II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
               <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="29. Divide Two Integers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/29. Divide Two Integers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="151. Reverse Words in a String.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/18. 4Sum.py" />
-        <option value="$PROJECT_DIR$/problems/75. Sort Colors.py" />
         <option value="$PROJECT_DIR$/problems/8. String to Integer (atoi).py" />
         <option value="$PROJECT_DIR$/problems/111. Minimum Depth of Binary Tree.py" />
         <option value="$PROJECT_DIR$/problems/102. Binary Tree Level Order Traversal.py" />
@@ -109,6 +128,8 @@
         <option value="$PROJECT_DIR$/127. Word Ladder.py" />
         <option value="$PROJECT_DIR$/223. Rectangle Area.py" />
         <option value="$PROJECT_DIR$/247. Strobogrammatic Number II.py" />
+        <option value="$PROJECT_DIR$/29. Divide Two Integers.py" />
+        <option value="$PROJECT_DIR$/151. Reverse Words in a String.py" />
       </list>
     </option>
   </component>
@@ -345,20 +366,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/102. Binary Tree Level Order Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/34. Search for a Range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/111. Minimum Depth of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -700,6 +707,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/29. Divide Two Integers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="45" />
           <folding />
         </state>
       </provider>
