@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f5147a7-4672-49eb-8d09-523e04336e61" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/151. Reverse Words in a String.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/29. Divide Two Integers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/71. Simplify Path.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/151. Reverse Words in a String.py" afterPath="$PROJECT_DIR$/151. Reverse Words in a String.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,31 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="247. Strobogrammatic Number II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/247. Strobogrammatic Number II.py">
+      <file leaf-file-name="71. Simplify Path.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/71. Simplify Path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="29. Divide Two Integers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/29. Divide Two Integers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="151. Reverse Words in a String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="520">
+              <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -79,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/8. String to Integer (atoi).py" />
         <option value="$PROJECT_DIR$/problems/111. Minimum Depth of Binary Tree.py" />
         <option value="$PROJECT_DIR$/problems/102. Binary Tree Level Order Traversal.py" />
         <option value="$PROJECT_DIR$/problems/107. Binary Tree Level Order Traversal II.py" />
@@ -130,6 +109,7 @@
         <option value="$PROJECT_DIR$/247. Strobogrammatic Number II.py" />
         <option value="$PROJECT_DIR$/29. Divide Two Integers.py" />
         <option value="$PROJECT_DIR$/151. Reverse Words in a String.py" />
+        <option value="$PROJECT_DIR$/71. Simplify Path.py" />
       </list>
     </option>
   </component>
@@ -179,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.247. Strobogrammatic Number II">
+  <component name="RunManager" selected="Python.71. Simplify Path">
     <configuration name="127. Word Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,6 +173,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/127. Word Ladder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="151. Reverse Words in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/151. Reverse Words in a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +232,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="299. Bulls and Cows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="71. Simplify Path" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -246,44 +244,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/299. Bulls and Cows.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="mindstorms" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Udacity-GIT-course/Draw-Turtles/mindstorms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/71. Simplify Path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
-      <item index="1" class="java.lang.String" itemvalue="Python.mindstorms" />
-      <item index="2" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
-      <item index="3" class="java.lang.String" itemvalue="Python.223. Rectangle Area" />
-      <item index="4" class="java.lang.String" itemvalue="Python.247. Strobogrammatic Number II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
+      <item index="1" class="java.lang.String" itemvalue="Python.223. Rectangle Area" />
+      <item index="2" class="java.lang.String" itemvalue="Python.247. Strobogrammatic Number II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.151. Reverse Words in a String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.71. Simplify Path" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.247. Strobogrammatic Number II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.223. Rectangle Area" />
-        <item index="2" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
-        <item index="3" class="java.lang.String" itemvalue="Python.mindstorms" />
-        <item index="4" class="java.lang.String" itemvalue="Python.299. Bulls and Cows" />
+        <item index="0" class="java.lang.String" itemvalue="Python.71. Simplify Path" />
+        <item index="1" class="java.lang.String" itemvalue="Python.151. Reverse Words in a String" />
+        <item index="2" class="java.lang.String" itemvalue="Python.247. Strobogrammatic Number II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.223. Rectangle Area" />
+        <item index="4" class="java.lang.String" itemvalue="Python.127. Word Ladder" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +294,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26192895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26192895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -366,13 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/111. Minimum Depth of Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="75" lean-forward="false" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/91. Decode Ways.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -711,18 +684,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/29. Divide Two Integers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="29" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/151. Reverse Words in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/71. Simplify Path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding />
         </state>
       </provider>
