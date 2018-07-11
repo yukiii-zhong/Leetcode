@@ -10,7 +10,24 @@ class Solution(object):
         :type n: Maximum number of characters to read (int)
         :rtype: The number of characters read (int)
         """
-        t = read4(buf)
-        if t>=n: return n
-        elif t<4: return t
-        return 4 + read(buf,n-4)
+        temp = ['' for _ in range(4)]
+        total = 0
+
+        while True:
+            # Count how many chars can be read
+            count = min(read4(temp), n)
+            if count == 0: break
+
+            # Update n
+            n -= count
+
+            # Store chars read before
+            for i in range(count):
+                buf[total] = temp[i]
+                total += 1
+
+        return total
+
+
+
+
