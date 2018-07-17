@@ -1,1 +1,2 @@
-print(1 if 2==3 else 2)
+for i in [1,2,3][::-1]:
+    print(i)

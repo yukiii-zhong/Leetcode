@@ -17,6 +17,13 @@ class Solution(object):
                     res.append(i)
             return res
 
+        def isValid(s):
+            if int(s) > 255:
+                return False
+            if s[0] == '0' and len(s) > 1:
+                return False
+            return True
+
         res = []
         halves = findSplit(0, len(s), 2)
         for half in halves:
@@ -24,12 +31,7 @@ class Solution(object):
             rights = findSplit(half, len(s), 1)
             for l in lefts:
                 for r in rights:
-                    if all(int(string) <= 255 for string in [s[:l], s[l:half], s[half:r], s[r:]]):
+                    if all(isValid(string) for string in [s[:l], s[l:half], s[half:r], s[r:]]):
                         res.append(s[:l] + '.' + s[l:half] + '.' + s[half:r] + '.' + s[r:])
 
         return res
-
-        def isValid(s):
-            if
-
-print(Solution().restoreIpAddresses("25525511135"))
